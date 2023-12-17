@@ -1,6 +1,6 @@
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
-import CityList from './components/CItyList'
 import City from './components/City'
+import CityList from './components/CityList'
 import CountryList from './components/CountryList'
 import Form from './components/Form'
 import { CitiesProvider } from './contexts/CitiesContext'
